@@ -1,0 +1,6 @@
+2fa3a39a761e57b1c02d86904a4c7d4e *DESCRIPTION
+d5ee1b5daf7d77c7b4ae7a5d53fc9753 *NAMESPACE
+9d3cbc531d5acdd04cdfdcdb408c4438 *R/plugin.R
+975aeed0136392877ec760f1288a2e8e *R/zzz.R
+acd3df69b26f6cfa44f2badb6d341d14 *tests/test_ipop.R
+b6ee15bcad4ea7d4b9c3521b3ab01841 *tests/test_ipop.Rout.save
